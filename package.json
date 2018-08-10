@@ -1,0 +1,24 @@
+{
+  "name": "poload",
+  "version": "1.0.0",
+  "description": "Bootstrap 3 jQuery popover with ajax dinamic content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnatanael/poload.git"
+  },
+  "keywords": [
+    "popover",
+    "ajax",
+    "dinamic"
+  ],
+  "author": "Thiago Natanael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnatanael/poload/issues"
+  },
+  "homepage": "https://github.com/tnatanael/poload#readme"
+}
